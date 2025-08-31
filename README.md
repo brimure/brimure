@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Mureithi Wambugu
+# 👋 Hi, I'm Brian Wambugu
 
 🎓 **Software Engineer** | 🛠️ **Full-Stack Developer** | 🌍 **Open Source Enthusiast**
 
