@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Brian Mureithi Wambugu
 
-<!--
-**brimure/brimure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer** | 🛠️ **Full-Stack Developer** | 🌍 **Open Source Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+I'm a passionate software engineer focused on building scalable, user-centric applications. Whether it's writing clean backend APIs or crafting interactive UIs, I love solving problems with technology.
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** Python, JavaScript (ES6+), TypeScript
+- **Frontend:** React, HTML5, CSS3, Bootstrap
+- **Backend:** Node.js, Express, Flask
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub, Docker, VS Code
+
+---
+
+## 🔭 Current Projects
+
+- 🌐 Improving my GitHub workflow and version control skills
+- 🧪 Diving deeper into test-driven development
+- 💼 Preparing portfolio-worthy applications
+
+---
+
+## 📚 Learning Goals
+
+- ⚙️ DevOps tools & CI/CD
+- ☁️ Cloud technologies (AWS, GCP)
+- 🧠 Machine Learning with Python
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/brian-wambugu-a06026373/)
+- 💻 [GitHub](https://github.com/brimure)
+- ✉️ Email: info@brimurcollege.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 🚀
